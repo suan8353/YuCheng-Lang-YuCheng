@@ -115,7 +115,3 @@ We are looking for contributors interested in:
 ```
 
 ---
-
-    *   **立刻去 Hacker News 和 Reddit 发帖！** 标题就用：*"Show HN: YuCheng – A systems language with native syntax for CPU Big.LITTLE scheduling and GPU offloading"*。
-
-**祝你一炮而红！全球开发者都在等这样的语言！**
