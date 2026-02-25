@@ -110,8 +110,3 @@ We are looking for contributors interested in:
 -   **AI Integration** (Prompt Engineering, Auto-annotation)
 -   **Standard Library** (Hardware-accelerated primitives)
 
----
-**YuCheng**: Where High-Level Logic meets Low-Level Metal, enforced by Rigorous Architecture.
-```
-
----
